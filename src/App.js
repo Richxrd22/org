@@ -57,7 +57,7 @@ function App() {
     {
       id: uuidv4(),
       equipo: "Front End",
-      foto: "https://github.com/Rxchard22.png",
+      foto: "https://github.com/Richxrd22.png",
       nombre: "Richard Tacca Perales",
       puesto: "Instructor",
       fav:true
@@ -65,7 +65,7 @@ function App() {
     {
       id: uuidv4(),
       equipo: "Programación",
-      foto: "https://github.com/Rxchard22.png",
+      foto: "https://github.com/Richxrd22.png",
       nombre: "Richard Tacca Perales",
       puesto: "Instructor",
       fav:false
@@ -73,7 +73,7 @@ function App() {
     {
       id: uuidv4(),
       equipo: "UX y Diseño",
-      foto: "https://github.com/Rxchard22.png",
+       foto: "https://github.com/Richxrd22.png",
       nombre: "Richard Tacca Perales",
       puesto: "Instructor",
       fav:false
